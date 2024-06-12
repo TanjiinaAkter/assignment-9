@@ -1,0 +1,19 @@
+/* Navbar.css */
+
+.activeer {
+  transition: all 0.4s ease;
+  /* border-bottom: 2px solid white; */
+  /* border-top: 2px solid white; */
+  padding: 1rem;
+  font-size: 1.5rem;
+  color: red;
+}
+.activeer:hover {
+  color: white; /* Ensure text color changes as well */
+  padding: 1rem;
+  border-bottom: 2px solid white;
+  border-top: 2px solid white;
+}
+.custom-css {
+  margin: 0 1.2rem;
+}

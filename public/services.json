@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "name": "Venue Selection",
+    "img": "/assets/s-1.jpg",
+    "price_range": "$1000 - $5000",
+    "short_description": "Assist in finding and booking the perfect venue for your event.",
+    "categories": [
+      {
+        "id": "1_1",
+        "name": "Venue A",
+        "img": "/assets/s-1.jpg",
+        "price": "$1500",
+        "description": "A beautiful outdoor venue with scenic views."
+      },
+      {
+        "id": "1_2",
+        "name": "Venue B",
+        "img": "/assets/v-2.jpg",
+        "price": "$2000",
+        "description": "A modern indoor venue with all amenities."
+      },
+      {
+        "id": "1_3",
+        "name": "Venue C",
+        "img": "/assets/v-3.jpg",
+        "price": "$2500",
+        "description": "A rustic barn venue perfect for a country wedding."
+      },
+      {
+        "id": "1_4",
+        "name": "Venue D",
+        "img": "/assets/v-2.jpg",
+        "price": "$3000",
+        "description": "A luxurious hotel ballroom for a grand event."
+      },
+      {
+        "id": "1_5",
+        "name": "Venue E",
+        "img": "/assets/v-1.jpg",
+        "price": "$3500",
+        "description": "A charming garden venue for an intimate gathering."
+      },
+      {
+        "id": "1_6",
+        "name": "Venue F",
+        "img": "/assets/v-3.jpg",
+        "price": "$4000",
+        "description": "An elegant historic mansion for a classic wedding."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Invitation Design",
+    "img": "/assets/s-2.jpg",
+    "price_range": "$200 - $1000",
+    "short_description": "Create custom invitations that reflect your event's theme.",
+    "categories": [
+      {
+        "id": "2_1",
+        "name": "Design A",
+        "img": "/assets/c-6.jpg",
+        "price": "$200",
+        "description": "Elegant and traditional wedding invitation."
+      },
+      {
+        "id": "2_2",
+        "name": "Design B",
+        "img": "/assets/c-5.jpg",
+        "price": "$250",
+        "description": "Modern and chic invitation design."
+      },
+      {
+        "id": "2_3",
+        "name": "Design C",
+        "img": "/assets/c-4.jpg",
+        "price": "$300",
+        "description": "Vintage-inspired invitation with lace details."
+      },
+      {
+        "id": "2_4",
+        "name": "Design D",
+        "img": "/assets/c-1.jpg",
+        "price": "$350",
+        "description": "Minimalist invitation with clean lines."
+      },
+      {
+        "id": "2_5",
+        "name": "Design E",
+        "img": "/assets/c-2.jpg",
+        "price": "$400",
+        "description": "Floral-themed invitation with vibrant colors."
+      },
+      {
+        "id": "2_6",
+        "name": "Design F",
+        "img": "/assets/c-3.jpg",
+        "price": "$450",
+        "description": "Custom illustration wedding invitation."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Design and Décor",
+    "img": "/assets/s-3.jpg",
+    "price_range": "$1500 - $7000",
+    "short_description": "Transform your venue with beautiful decorations and designs.",
+    "categories": [
+      {
+        "id": "3_1",
+        "name": "Décor A",
+        "img": "/assets/wed-2.jpg",
+        "price": "$1500",
+        "description": "Rustic décor with burlap and mason jars."
+      },
+      {
+        "id": "3_2",
+        "name": "Décor B",
+        "img": "/assets/s-4.jpg",
+        "price": "$2000",
+        "description": "Elegant décor with crystal chandeliers."
+      },
+      {
+        "id": "3_3",
+        "name": "Décor C",
+        "img": "/assets/wed-2.jpg",
+        "price": "$2500",
+        "description": "Bohemian décor with dreamcatchers and flowers."
+      },
+      {
+        "id": "3_4",
+        "name": "Décor D",
+        "img": "/assets/s-4.jpg",
+        "price": "$3000",
+        "description": "Classic décor with white roses and candles."
+      },
+      {
+        "id": "3_5",
+        "name": "Décor E",
+        "img": "/assets/s-2.jpg",
+        "price": "$3500",
+        "description": "Modern décor with geometric shapes and gold accents."
+      },
+      {
+        "id": "3_6",
+        "name": "Décor F",
+        "img": "/assets/wed-2.jpg",
+        "price": "$4000",
+        "description": "Glamorous décor with sequins and feathers."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Catering",
+    "img": "/assets/s-4.jpg",
+    "price_range": "$2000 - $10000",
+    "short_description": "Provide delicious food and beverages for your event.",
+    "categories": [
+      {
+        "id": "4_1",
+        "name": "Menu A",
+        "img": "/assets/f-1.jpg",
+        "price": "$2500",
+        "description": "Classic three-course meal with dessert."
+      },
+      {
+        "id": "4_2",
+        "name": "Menu B",
+        "img": "/assets/f-2.jpg",
+        "price": "$3000",
+        "description": "Buffet-style meal with various cuisines."
+      },
+      {
+        "id": "4_3",
+        "name": "Menu C",
+        "img": "/assets/f-3.jpg",
+        "price": "$3500",
+        "description": "Gourmet five-course meal with wine pairings."
+      },
+      {
+        "id": "4_4",
+        "name": "Menu D",
+        "img": "/assets/f-1.jpg",
+        "price": "$4000",
+        "description": "Vegetarian and vegan-friendly menu options."
+      },
+      {
+        "id": "4_5",
+        "name": "Menu E",
+        "img": "/assets/f-2.jpg",
+        "price": "$4500",
+        "description": "Seafood-centric menu with fresh ingredients."
+      },
+      {
+        "id": "4_6",
+        "name": "Menu F",
+        "img": "/assets/f-3.jpg",
+        "price": "$5000",
+        "description": "Customizable menu with chef's specialties."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bridal Makeup",
+    "img": "/assets/s-5.jpg",
+    "price_range": "$300 - $1500",
+    "short_description": "Professional makeup services for the bride and bridal party.",
+    "categories": [
+      {
+        "id": "5_1",
+        "name": "Makeup Style A",
+        "img": "/assets/s-5.jpg",
+        "price": "$300",
+        "description": "Natural and elegant bridal makeup."
+      },
+      {
+        "id": "5_2",
+        "name": "Makeup Style B",
+        "img": "/assets/s-5.jpg",
+        "price": "$400",
+        "description": "Glamorous and bold bridal makeup."
+      },
+      {
+        "id": "5_3",
+        "name": "Makeup Style C",
+        "img": "/assets/s-5.jpg",
+        "price": "$500",
+        "description": "Vintage-inspired bridal makeup."
+      },
+      {
+        "id": "5_4",
+        "name": "Makeup Style D",
+        "img": "/assets/s-5.jpg",
+        "price": "$600",
+        "description": "Bohemian and earthy bridal makeup."
+      },
+      {
+        "id": "5_5",
+        "name": "Makeup Style E",
+        "img": "/assets/s-5.jpg",
+        "price": "$700",
+        "description": "Classic and timeless bridal makeup."
+      },
+      {
+        "id": "5_6",
+        "name": "Makeup Style F",
+        "img": "/assets/m-1.jpg",
+        "price": "$800",
+        "description": "Modern and chic bridal makeup."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Photography and Videography",
+    "img": "/assets/s-6.jpg",
+    "price_range": "$1000 - $5000",
+    "short_description": "Capture the special moments of your event with photos and videos.",
+    "categories": [
+      {
+        "id": "6_1",
+        "name": "Photography Package A",
+        "img": "/assets/p-1.jpg",
+        "price": "$1000",
+        "description": "Basic photography package with digital files."
+      },
+      {
+        "id": "6_2",
+        "name": "Photography Package B",
+        "img": "/assets/p-2.jpg",
+        "price": "$1500",
+        "description": "Standard photography package with album."
+      },
+      {
+        "id": "6_3",
+        "name": "Photography Package C",
+        "img": "/assets/p-1.jpg",
+        "price": "$2000",
+        "description": "Premium photography package with prints and album."
+      },
+      {
+        "id": "6_4",
+        "name": "Videography Package A",
+        "img": "/assets/p-2.jpg",
+        "price": "$2500",
+        "description": "Basic videography package with highlight reel."
+      },
+      {
+        "id": "6_5",
+        "name": "Videography Package B",
+        "img": "/assets/p-1.jpg",
+        "price": "$3000",
+        "description": "Standard videography package with full video."
+      },
+      {
+        "id": "6_6",
+        "name": "Videography Package C",
+        "img": "/assets/p-2.jpg",
+        "price": "$3500",
+        "description": "Premium videography package with edits and highlights."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Entertainment(dj,Arranging for bands)",
+    "img": "/assets/s-7.jpg",
+    "price_range": "$500 - $3000",
+    "short_description": "Provide DJ services and arrange live bands for entertainment.",
+    "categories": [
+      {
+        "id": "7_1",
+        "name": "DJ Service",
+        "img": "/assets/s-7.jpg",
+        "price": "$500",
+        "description": "Professional DJ service for your event."
+      },
+      {
+        "id": "7_2",
+        "name": "Live Band A",
+        "img": "/assets/s-7.jpg",
+        "price": "$1500",
+        "description": "A lively rock band for energetic performances."
+      },
+      {
+        "id": "7_3",
+        "name": "Live Band B",
+        "img": "/assets/s-7.jpg",
+        "price": "$2000",
+        "description": "A soulful jazz band for a sophisticated atmosphere."
+      },
+      {
+        "id": "7_4",
+        "name": "Live Band C",
+        "img": "/assets/s-7.jpg",
+        "price": "$2500",
+        "description": "A popular cover band for a fun and engaging event."
+      },
+      {
+        "id": "7_5",
+        "name": "Solo Musician",
+        "img": "/assets//s-7.jpg",
+        "price": "$750",
+        "description": "A talented solo musician for a more intimate setting."
+      },
+      {
+        "id": "7_6",
+        "name": "Classical Quartet",
+        "img": "/assets//s-7.jpg",
+        "price": "$3000",
+        "description": "A classical quartet for a touch of elegance."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Logistics(transport)",
+    "img": "/assets/s-8.jpg",
+    "price_range": "$300 - $1500",
+    "short_description": "Coordinate transportation for guests and materials.",
+    "categories": [
+      {
+        "id": "8_1",
+        "name": "Shuttle Service",
+        "img": "/assets/s-8.jpg",
+        "price": "$300",
+        "description": "Shuttle service to transport guests to and from the venue."
+      },
+      {
+        "id": "8_2",
+        "name": "Luxury Car Rental",
+        "img": "/assets/s-8.jpg",
+        "price": "$800",
+        "description": "Rent a luxury car for the bride and groom."
+      },
+      {
+        "id": "8_3",
+        "name": "Bus Rental",
+        "img": "/assets/s-8.jpg",
+        "price": "$1200",
+        "description": "Bus rental for large groups of guests."
+      },
+      {
+        "id": "8_4",
+        "name": "Limo Service",
+        "img": "/assets/s-8.jpg",
+        "price": "$1000",
+        "description": "Limo service for a grand entrance."
+      },
+      {
+        "id": "8_5",
+        "name": "Van Rental",
+        "img": "/assets/s-8.jpg",
+        "price": "$600",
+        "description": "Van rental for transporting equipment and supplies."
+      },
+      {
+        "id": "8_6",
+        "name": "Car Service",
+        "img": "/assets/s-8.jpg",
+        "price": "$500",
+        "description": "Car service for VIP guests."
+      }
+    ]
+  }
+]
